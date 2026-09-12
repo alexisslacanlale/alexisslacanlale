@@ -2,7 +2,7 @@
 
 **Data Analyst & Product Builder**
 
-I build data-driven products, automation, and business systems...turning ideas into practical systems that can scale.
+I build data-driven products, automation, and business systems — turning ideas into practical solutions that can scale.
 
 ## What I Do
 
@@ -10,7 +10,6 @@ I build data-driven products, automation, and business systems...turning ideas i
 - Product & Systems Development
 - Business Process Automation
 - Operations & Workflow Design
-- Quantitative & Algorithmic Systems
 - Business Strategy & Growth
 
 ## My Approach
@@ -38,8 +37,8 @@ Product development, APIs, automation, and scalable systems.
 **Business**  
 Operations, process optimization, growth, and building businesses from the ground up.
 
-**Quantitative Systems**  
-Data-driven approaches to financial markets and algorithmic systems.
+**Systems & Automation**  
+Designing practical workflows, automation, and systems that make businesses more efficient and scalable.
 
 ---
 
